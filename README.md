@@ -1,2 +1,0 @@
-# IZICO
-IZICO Welcome Page
